@@ -1,0 +1,193 @@
+repository;refactoring_type;className;operation;readability;understandability
+https://github.com/apache/tomcat.git;Add Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext.ContextState;BEFORE;0.5000286049318571;345.0
+https://github.com/apache/tomcat.git;Add Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext.ContextState;AFTER;0.4972928118180621;345.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5000286049318571;345.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext.ContextState;AFTER;0.4972928118180621;345.0
+https://github.com/apache/tomcat.git;Change Attribute Access Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5000286049318571;345.0
+https://github.com/apache/tomcat.git;Change Attribute Access Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext.ContextState;AFTER;0.4972928118180621;345.0
+https://github.com/apache/tomcat.git;Modify Method Annotation;jakarta.servlet.http.TestHttpServletDoHead;BEFORE;0.5196398049592972;47.0
+https://github.com/apache/tomcat.git;Modify Method Annotation;jakarta.servlet.http.TestHttpServletDoHead;AFTER;0.5186895366225924;47.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.HttpServlet;BEFORE;0.8399973797301451;83.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.HttpServlet;AFTER;0.8399973797301451;83.0
+https://github.com/apache/tomcat.git;Remove Thrown Exception Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLLifecycleListener;BEFORE;0.6911801099777222;91.0
+https://github.com/apache/tomcat.git;Remove Thrown Exception Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLLifecycleListener;AFTER;0.7008583124946145;92.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.SessionCookieConfig;BEFORE;0.9657694767503178;0.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.SessionCookieConfig;AFTER;0.9610829037778518;0.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.SessionCookieConfig;BEFORE;0.9657694767503178;0.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.SessionCookieConfig;AFTER;0.9610829037778518;0.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.http.Cookie;BEFORE;0.8650642138335013;48.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.http.Cookie;AFTER;0.8632280903643575;45.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.http.Cookie;BEFORE;0.8650642138335013;48.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.http.Cookie;AFTER;0.8632280903643575;45.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.http.Cookie;BEFORE;0.8650642138335013;48.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.http.Cookie;AFTER;0.8632280903643575;45.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.http.Cookie;BEFORE;0.8650642138335013;48.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.http.Cookie;AFTER;0.8632280903643575;45.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.parser.Cookie;BEFORE;0.807084878285726;181.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.parser.Cookie;AFTER;0.8896005584133996;43.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.http.TestCookie;BEFORE;0.7600583363147009;9.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.http.TestCookie;AFTER;0.7507315889000893;9.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.http.TestCookie;BEFORE;0.7600583363147009;9.0
+https://github.com/apache/tomcat.git;Add Method Annotation;jakarta.servlet.http.TestCookie;AFTER;0.7507315889000893;9.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Rename Parameter;org.apache.tomcat.util.http.TestCookieProcessorGeneration;BEFORE;0.7533533672491709;8.0
+https://github.com/apache/tomcat.git;Rename Parameter;org.apache.tomcat.util.http.TestCookieProcessorGeneration;AFTER;0.821480907274015;8.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookies;BEFORE;0.7593171147422658;7.0
+https://github.com/apache/tomcat.git;Rename Method;org.apache.tomcat.util.http.TestCookies;AFTER;0.8009124834622655;1.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;BEFORE;0.7593171147422658;7.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;AFTER;0.8009124834622655;1.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;BEFORE;0.7593171147422658;7.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;AFTER;0.8009124834622655;1.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;BEFORE;0.7593171147422658;7.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;AFTER;0.8009124834622655;1.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;BEFORE;0.7593171147422658;7.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;AFTER;0.8009124834622655;1.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;BEFORE;0.7593171147422658;7.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;AFTER;0.8009124834622655;1.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;BEFORE;0.7593171147422658;7.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;AFTER;0.8009124834622655;1.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;BEFORE;0.7593171147422658;7.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;AFTER;0.8009124834622655;1.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;BEFORE;0.7593171147422658;7.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;AFTER;0.8009124834622655;1.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;BEFORE;0.7593171147422658;7.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;AFTER;0.8009124834622655;1.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;BEFORE;0.7593171147422658;7.0
+https://github.com/apache/tomcat.git;Inline Method;org.apache.tomcat.util.http.TestCookies;AFTER;0.8009124834622655;1.0
+https://github.com/apache/tomcat.git;Rename Variable;org.apache.tomcat.util.http.TestCookies;BEFORE;0.7593171147422658;7.0
+https://github.com/apache/tomcat.git;Rename Variable;org.apache.tomcat.util.http.TestCookies;AFTER;0.8009124834622655;1.0
+https://github.com/apache/tomcat.git;Remove Parameter;org.apache.tomcat.util.http.TestCookies;BEFORE;0.7593171147422658;7.0
+https://github.com/apache/tomcat.git;Remove Parameter;org.apache.tomcat.util.http.TestCookies;AFTER;0.8009124834622655;1.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.catalina.connector.Request;BEFORE;0.8156405543549019;456.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.catalina.connector.Request;AFTER;0.8156371181994154;456.0
+https://github.com/apache/tomcat.git;Move Class;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext.DHParam;BEFORE;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Move Class;org.apache.tomcat.util.net.openssl.panama.OpenSSLLifecycleListener.DHParam;AFTER;0.691295163705945;91.0
+https://github.com/apache/tomcat.git;Extract Method;org.apache.tomcat.util.net.openssl.panama.OpenSSLLifecycleListener;BEFORE;0.7550375442951918;81.0
+https://github.com/apache/tomcat.git;Extract Method;org.apache.tomcat.util.net.openssl.panama.OpenSSLLifecycleListener;AFTER;0.691295163705945;91.0
+https://github.com/apache/tomcat.git;Replace Attribute With Variable;org.apache.tomcat.util.net.openssl.panama.OpenSSLLifecycleListener;BEFORE;0.7550375442951918;81.0
+https://github.com/apache/tomcat.git;Replace Attribute With Variable;org.apache.tomcat.util.net.openssl.panama.OpenSSLLifecycleListener;AFTER;0.691295163705945;91.0
+https://github.com/apache/tomcat.git;Change Class Access Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext.DHParam;BEFORE;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Change Class Access Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLLifecycleListener.DHParam;AFTER;0.691295163705945;91.0
+https://github.com/apache/tomcat.git;Change Attribute Access Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext.DHParam;BEFORE;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Change Attribute Access Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLLifecycleListener.DHParam;AFTER;0.691295163705945;91.0
+https://github.com/apache/tomcat.git;Change Attribute Access Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext.DHParam;BEFORE;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Change Attribute Access Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLLifecycleListener.DHParam;AFTER;0.691295163705945;91.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLLifecycleListener;AFTER;0.691295163705945;91.0
+https://github.com/apache/tomcat.git;Change Attribute Access Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Change Attribute Access Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLLifecycleListener;AFTER;0.691295163705945;91.0
+https://github.com/apache/tomcat.git;Rename Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6354397511233886;416.0
+https://github.com/apache/tomcat.git;Rename Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.635503694092234;416.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$0;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$1;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$0;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$1;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$0;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$1;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$0;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$1;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$1;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$2;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$1;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$2;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$1;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$2;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$1;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$2;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$10;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$11;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$10;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$11;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$10;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$11;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$10;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$11;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$11;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$12;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$11;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$12;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$11;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$12;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$11;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$12;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$12;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$13;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$12;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$13;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$12;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$13;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$12;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$13;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$13;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$14;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$13;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$14;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$13;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$14;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$13;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$14;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$14;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$15;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$14;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$15;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$14;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$15;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$14;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$15;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$15;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$16;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$15;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$16;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$15;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$16;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$15;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$16;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$16;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$17;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$16;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$17;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$16;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$17;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$16;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$17;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$17;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$18;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$17;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$18;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$17;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$18;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$17;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$18;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$18;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$19;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$18;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$19;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$18;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$19;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$18;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$19;AFTER;NaN;0.0
