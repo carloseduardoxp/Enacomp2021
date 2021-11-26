@@ -11,20 +11,16 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 options(warn=1)
 
-readDataSet = read.csv('saida.csv', header = TRUE, sep = ";", quote = "\"",
+readDataSet = read.csv('pullRequest.csv', header = TRUE, sep = ";", quote = "\"",
                        dec = ".", fill = TRUE, comment.char = "")
 
 types <- readDataSet[,1, drop=FALSE]
 types = unique(types)
 
-ref = subset(readDataSet, refactoring_type=='Inline Method')
 
-wilcox.test(readability ~ operation, data = ref, conf.int = TRUE, conf.level = 0.95)
-wilcox.test(understandability ~ operation, data = ref, conf.int = TRUE, conf.level = 0.95)
+wilcox.test(operation ~ readability, data = readDataSet, conf.int = TRUE, conf.level = 0.95)
 
 wilcoxonPairedR(x = ref$readability, g = ref$operation)
-wilcoxonPairedR(x = ref$understandability, g = ref$operation)
 
-boxplot(readability ~ operation, data = ref)
-boxplot(understandability ~ operation, data = ref)
+boxplot(operation ~ readability, data = readDataSet)
 

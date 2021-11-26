@@ -191,3 +191,332 @@ https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.opens
 https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$19;AFTER;NaN;0.0
 https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$18;BEFORE;NaN;0.0
 https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$19;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$19;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$20;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$19;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$20;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$19;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$20;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$19;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$20;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$2;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$3;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$2;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$3;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$2;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$3;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$2;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$3;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$20;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$21;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$20;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$21;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$20;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$21;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$21;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$22;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$21;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$22;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$21;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$22;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$21;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$22;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$22;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$23;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$22;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$23;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$22;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$23;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$22;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$23;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$23;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$24;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$23;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$24;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$23;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$24;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$23;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$24;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$24;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$25;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$24;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$25;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$24;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$25;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$24;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$25;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$25;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$25;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$25;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$25;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$27;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$27;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$27;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$27;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$27;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$28;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$27;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$28;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$27;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$28;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$27;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$28;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$3;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$4;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$3;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$4;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$3;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$4;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$3;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$4;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$4;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$5;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$4;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$5;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$4;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$5;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$4;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$5;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$5;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$6;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$5;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$6;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$5;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$6;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$5;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$6;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$6;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$7;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$6;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$7;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$6;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$7;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$6;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$7;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$7;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$8;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$7;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$8;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$7;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$8;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$7;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$8;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$8;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$9;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$8;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$9;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$8;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$9;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$8;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$9;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$9;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$10;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$9;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$10;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$9;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$10;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$9;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$10;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Rename Class;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;BEFORE;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Rename Class;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.EngineState;AFTER;0.6354397511233886;416.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Rename Variable;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Rename Variable;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Rename Variable;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Rename Variable;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Remove Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Remove Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Replace Attribute With Variable;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Replace Attribute With Variable;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6354397511233886;416.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6354397511233886;416.0
+https://github.com/apache/tomcat.git;Extract Method;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Extract Method;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6354397511233886;416.0
+https://github.com/apache/tomcat.git;Extract Method;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Extract Method;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6354397511233886;416.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6354397511233886;416.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6354397511233886;416.0
+https://github.com/apache/tomcat.git;Remove Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Remove Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6354397511233886;416.0
+https://github.com/apache/tomcat.git;Remove Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;BEFORE;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Remove Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.EngineState;AFTER;0.6354397511233886;416.0
+https://github.com/apache/tomcat.git;Extract Class;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Extract Class;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext.ContextState;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext.OpenSSLState;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Change Attribute Access Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext.OpenSSLState;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Change Attribute Access Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext.ContextState;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext.ContextState;AFTER;0.5180506731879575;345.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5364188215517215;363.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5364188215517215;363.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5445308440514202;366.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Remove Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Remove Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Remove Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Remove Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Add Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Add Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Add Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Add Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6316561139868321;416.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6428417000365821;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6428417000365821;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6428417000365821;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6428417000365821;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6428417000365821;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;BEFORE;0.6428417000365821;414.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;BEFORE;0.6428417000365821;414.0
+https://github.com/apache/tomcat.git;Change Attribute Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;BEFORE;0.6428417000365821;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;BEFORE;0.6428417000365821;414.0
+https://github.com/apache/tomcat.git;Change Parameter Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine.OpenSSLState;AFTER;0.6422985520062817;414.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5349887943648509;363.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.536602566776992;363.0
+https://github.com/apache/tomcat.git;Remove Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6431674261300547;414.0
+https://github.com/apache/tomcat.git;Remove Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6428417000365821;414.0
+https://github.com/apache/tomcat.git;Remove Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6431674261300547;414.0
+https://github.com/apache/tomcat.git;Remove Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6428417000365821;414.0
+https://github.com/apache/tomcat.git;Change Return Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5343069967014801;363.0
+https://github.com/apache/tomcat.git;Change Return Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.5349887943648509;363.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6356431101952251;415.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6352199074258474;415.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6356431101952251;415.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6352199074258474;415.0
+https://github.com/apache/tomcat.git;Rename Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6602342915262135;328.0
+https://github.com/apache/tomcat.git;Rename Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6356431101952251;415.0
+https://github.com/apache/tomcat.git;Add Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;BEFORE;0.6602342915262135;328.0
+https://github.com/apache/tomcat.git;Add Parameter;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6356431101952251;415.0
+https://github.com/apache/tomcat.git;Extract Class;org.apache.tomcat.util.openssl.constants$26;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Extract Class;org.apache.tomcat.util.openssl.constants$28;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Extract Class;org.apache.tomcat.util.openssl.constants$26;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Extract Class;org.apache.tomcat.util.openssl.constants$29;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Extract Class;org.apache.tomcat.util.openssl.constants$27;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Extract Class;org.apache.tomcat.util.openssl.constants$29;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5152442051252133;410.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6356431101952251;415.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5152442051252133;410.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6356431101952251;415.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5152442051252133;410.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6356431101952251;415.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5152442051252133;410.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6356431101952251;415.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$28;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$28;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$28;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$28;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$29;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$26;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$29;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$27;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$29;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$27;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$29;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$27;BEFORE;NaN;0.0
+https://github.com/apache/tomcat.git;Move Attribute;org.apache.tomcat.util.openssl.constants$29;AFTER;NaN;0.0
+https://github.com/apache/tomcat.git;Change Return Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5152442051252133;410.0
+https://github.com/apache/tomcat.git;Change Return Type;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6356431101952251;415.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5152442051252133;410.0
+https://github.com/apache/tomcat.git;Add Method Modifier;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6356431101952251;415.0
+https://github.com/apache/tomcat.git;Move Method;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5152442051252133;410.0
+https://github.com/apache/tomcat.git;Move Method;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6356431101952251;415.0
+https://github.com/apache/tomcat.git;Extract And Move Method;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;BEFORE;0.5152442051252133;410.0
+https://github.com/apache/tomcat.git;Extract And Move Method;org.apache.tomcat.util.net.openssl.panama.OpenSSLEngine;AFTER;0.6356431101952251;415.0
+https://github.com/apache/tomcat.git;Extract And Move Method;org.apache.tomcat.util.net.openssl.panama.OpenSSLContext;AFTER;0.529924345782535;364.0
+https://github.com/apache/tomcat.git;Remove Method Annotation;org.apache.tomcat.util.net.openssl.panama.OpenSSLImplementation;BEFORE;0.6485065892338753;0.0
+https://github.com/apache/tomcat.git;Remove Method Annotation;org.apache.tomcat.util.net.openssl.panama.OpenSSLImplementation;AFTER;0.658688522875309;0.0
+https://github.com/apache/tomcat.git;Remove Method Annotation;org.apache.tomcat.util.net.openssl.panama.OpenSSLImplementation;BEFORE;0.6485065892338753;0.0
+https://github.com/apache/tomcat.git;Remove Method Annotation;org.apache.tomcat.util.net.openssl.panama.OpenSSLImplementation;AFTER;0.658688522875309;0.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.catalina.realm.JNDIRealm;BEFORE;0.8142629594667189;380.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.catalina.realm.JNDIRealm;AFTER;0.8146094372635012;383.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.catalina.realm.JNDIRealm;BEFORE;0.8142629594667189;380.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.catalina.realm.JNDIRealm;AFTER;0.8146094372635012;383.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.catalina.realm.JNDIRealm;BEFORE;0.8142629594667189;380.0
+https://github.com/apache/tomcat.git;Change Variable Type;org.apache.catalina.realm.JNDIRealm;AFTER;0.8146094372635012;383.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.TestHttpServletDoHead;BEFORE;0.5613059580326081;35.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.TestHttpServletDoHead;AFTER;0.5585315227508545;46.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.TestHttpServletDoHead;BEFORE;0.5613059580326081;35.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.TestHttpServletDoHead;AFTER;0.5585315227508545;46.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.TestHttpServletDoHead;BEFORE;0.5613059580326081;35.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.TestHttpServletDoHead;AFTER;0.5585315227508545;46.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.TestHttpServletDoHead;BEFORE;0.5613059580326081;35.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.TestHttpServletDoHead;AFTER;0.5585315227508545;46.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.TestHttpServletDoHead;BEFORE;0.5613059580326081;35.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.TestHttpServletDoHead;AFTER;0.5585315227508545;46.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.TestHttpServletDoHead;BEFORE;0.5613059580326081;35.0
+https://github.com/apache/tomcat.git;Modify Attribute Annotation;jakarta.servlet.http.TestHttpServletDoHead;AFTER;0.5585315227508545;46.0
+https://github.com/apache/tomcat.git;Extract Method;jakarta.servlet.http.TestHttpServletDoHead;BEFORE;0.5613059580326081;35.0
+https://github.com/apache/tomcat.git;Extract Method;jakarta.servlet.http.TestHttpServletDoHead;AFTER;0.5585315227508545;46.0
+https://github.com/apache/tomcat.git;Rename Variable;jakarta.servlet.http.TestHttpServletDoHead;BEFORE;0.5613059580326081;35.0
+https://github.com/apache/tomcat.git;Rename Variable;jakarta.servlet.http.TestHttpServletDoHead;AFTER;0.5585315227508545;46.0
+https://github.com/apache/tomcat.git;Modify Method Annotation;jakarta.servlet.http.TestHttpServletDoHead;BEFORE;0.5613059580326081;35.0
+https://github.com/apache/tomcat.git;Modify Method Annotation;jakarta.servlet.http.TestHttpServletDoHead;AFTER;0.5585315227508545;46.0
